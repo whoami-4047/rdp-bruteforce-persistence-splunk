@@ -63,7 +63,7 @@ For the complete MITRE ATT&CK mapping, see:
 
 ### Step 3 – Microsoft Defender Disabled
 
-![Defender Disabled](screenshots/03_defender_disabled.jpeg)
+![Defender Disabled](screenshots/03_defender_disable.jpeg)
 
 ---
 
