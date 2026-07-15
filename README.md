@@ -42,10 +42,9 @@ The simulated attack followed these stages:
 
 ## MITRE ATT&CK Mapping
 
-See:
+For the complete MITRE ATT&CK mapping, see:
 
-- `docs/mitre_attack_mapping.md`
-
+[MITRE ATT&CK Mapping](docs/mitre_attack_mapping.md)
 ---
 
 ## Investigation Steps
@@ -112,17 +111,17 @@ See:
 
 ## SPL Queries
 
-All Splunk SPL queries used during the investigation are available in:
+All Splunk SPL queries used during this investigation are available here:
 
-`queries/spl_queries.md`
+[SPL Queries](queries/spl_queries.md)
 
 ---
 
 ## Indicators of Compromise (IOCs)
 
-The collected IOCs are documented in:
+The collected Indicators of Compromise (IOCs) are documented here:
 
-`docs/iocs.md`
+[Indicators of Compromise (IOCs)](docs/iocs.md)
 
 ---
 
